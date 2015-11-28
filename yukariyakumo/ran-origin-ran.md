@@ -1,0 +1,10 @@
+# Ran's perspective
+Oh dear, let me see. I mean, these are some of my earliest memories, so I probably won't remember everything without a hitch, but I'll try my best! Hmm, where to begin?
+
+I suppose it would be good to explain my whereabouts before I actually met Yukari for the first time. Needless to say I was still a fox back then. I think it was around late Summer or Fall and it was quite chilly. At the time I was in a bit of a pickle since I didn't have much success finding any food. After a long while of travelling the woods looking for edibles, I --at last-- stumbled upon a house.
+
+I didn't really think too much about it. I quickly found what smelled like a store-room and made my way inside through an open window. An empty stomach makes it difficult to think, so I acted a bit carelessly, I suppose. I do remember things pretty clearly here though. The room smelled very dusty. There were several bags and crates filled with food and probably various other things, around. The sun shone softly into the room through the windows. It didn't feel right to be in there, but I was simply too hungry. So I started digging around in the bags.
+
+Suddenly I felt as if I was being watched, but looking around the room I couldn't make out anything, so I went on. The dried meat didn't taste fantastic, but at least it was something to eat. After a while I heard a noise outside and then a very strange feeling overcame me. My fur stood on end and as I turned around I found a terrifying, dark figure looming over me. A single eye gleamed in the darkness, its stare piercing right through me. Then a strange weight and drowsiness pushed down on me and before I realised it, I had passed out!
+
+I awoke to a soft humming. It felt strangely comforting and warm. I slowly opened my eyes and found myself in a small room, on top of a shelf. A human had its back towards me and was working on something on a table on the opposite side of the room. The room was fairly small with paper windows to one side and a closed sliding door to the other. 
