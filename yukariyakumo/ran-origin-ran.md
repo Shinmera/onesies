@@ -73,3 +73,30 @@ But all too soon it was already over. The plate was empty, and I felt completely
 
 ---
 
+The time that followed was a strange one. I had a lot to learn-- having been an animal, I didn't have much of an understanding of human behaviour and day-to-day life. I had also never lived with someone else before nor had any meaningful relationship with someone human-like. This led to a handful of misunderstandings and problems between her and myself. Not having any understanding of her language didn't help any either.
+
+Still, for all the trouble I caused, she seemed very compassionate and forgiving towards me. In retrospect, I'm quite certain that this was mostly due to my looking and behaving like a child. Perhaps it reached some part of her that was still human. Generously she sew, cleaned, cooked, and cared for me all day. I'm sure I wasn't easy to deal with, but children never are. I tried to make up for it by learning as quickly as possible and keeping myself together as well as I could. But sometimes it still wasn't enough. Every now and then I was overcome with the same fury and the nagging feeling in the back of my head sometimes got the better of me, so I ended up destroying things or even attacking her even though I didn't really mean for it.
+
+And so things took their course. For a while everything seemed to go by just fine. Well, relatively in any case. But then I gradually started to become more and more tired every day. My problems started intensifying as well. It felt desperate in a sense, as if it was a reaction to my getting weaker. However, the only thing that ended up achieving was to make me even more exhausted every day, not to mention causing severe destruction to several parts of the house.
+
+I don't remember how long it took --perhaps a bit more than a month-- until I barely got out of bed anymore at all. I felt incredibly tired, as if I could continue sleeping and dreaming forever. My dreams were very calm and tranquil at first, but then they too seemed to become exhausted and turned bleaker, more still every time.
+
+By then I had come to learn Yukari's name and I would call out for her often to keep me company. She seemed very concerned about my health and shut herself into her study for entire days. Often times she would also spend hours sitting by my side, simply holding my hand, thinking.
+
+One day I remember in particular. It was already noon when I woke up and it was overcast. Everything seemed bleak and cold. I shivered and retreated further beneath the blanket. My head felt empty and I didn't think about much. A few snowflakes that had gotten lost along the way landed on the veranda outside and vanished. Sometime later I was reawakened by heavy footsteps. Yukari entered my room, dressed in thick winter clothing. She kneeled down next to me and looked me in the eyes with a stern expression on her face. I got lost in the depths of her eyes once again and what she said came to me as if in a dream.
+
+I still couldn't understand her language at the time, but I got the feeling that she was getting ready to leave. I was terrified, but I kept quiet. As she left the room she looked back at me one last time. And then she was gone, just like that.
+
+I jumped up and yelled her name, but the only thing that answered me was the snow that begun falling faster and faster, quickly turning into a howling snowstorm. I called for her a few more times, but my cries were dampened, swallowed by the storm. Feeling alone, scared, and cold I crawled back beneath my blanket and waited.
+
+The doors and windows rattled in their frames as gusts of wind grazed the house. It had turned much darker now and combined with the howling of the wind it felt very creepy. I couldn't fall asleep for hours that day. I was scared like I had never been before in my life. What if Yukari wouldn't come back anymore? What if the house would break under the wind? What if I ran out of food? I didn't know how to cook! And in the state I was in I probably couldn't before passing out even if I did! I also thought I saw shadows of creatures moving around outside, hushing by before I could make them out. Big, scary shadows of creatures that would surely eat me up at a moment's notice.
+
+Only late at night the storm finally calmed down. Only few snowflakes fell here and there now and the only light came from the bright, full moon. The moon felt comforting somehow, its light tickled my nose. Finally exhaustion won me over and I passed out to sleep.
+
+From here on out I only awoke when I felt too hungry or thirsty. I lost a lot of weight too, feeling myself getting thinner and lighter over time. Every now and then I would wake up and find the food replenished and everything cleaned up. That gave me a bit of courage that Yukari was still watching over me. I remained like this for a week or two perhaps. And then I didn't awake anymore.
+
+My dreams were almost like still images now. Muted images of me sitting somewhere, viewed from afar. I dreamed of various landscapes, grassy hills, rocky mountains, deep and thick woods, abandoned and torn apart villages. Everything without a sound and without me being able to move myself. The colours were muted, the smell only distant.
+
+And then everything started to become more and more faint. Slowly but surely everything started to blend out into whiteness. A white as bright and gleaming as you could imagine, purer than anything I had ever seen on this world. Finally I felt myself getting lighter too, fading and drifting away into nothingness.
+
+
