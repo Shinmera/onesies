@@ -111,3 +111,6 @@ Shuddering and shaking I slowly lifted myself up. All the tiredness from the day
 
 ---
 
+I later learned that Yukari had saved me from death in the last second. I had been expending my energy all this time without being able to regain enough of it. Running out of energy would spell a certain end for any youkai. Fortunately enough Yukari had found a way to lend me her own energy so that I could go on living. In exchange for this, I am obligated to do whatever she wills. Even though it seems like that would be quite a demanding return on my part, I don't mind. Of course, I wasn't quite able to oblige it for the first few years anyway, having to learn to speak and help out first.
+
+Despite everything though it has worked out for hundreds of years now. Even if Yukari can be a big nuisance at times, I still admire her wisdom and insight. I'm looking forward to the next few hundred years.
