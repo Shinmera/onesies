@@ -97,6 +97,17 @@ From here on out I only awoke when I felt too hungry or thirsty. I lost a lot of
 
 My dreams were almost like still images now. Muted images of me sitting somewhere, viewed from afar. I dreamed of various landscapes, grassy hills, rocky mountains, deep and thick woods, abandoned and torn apart villages. Everything without a sound and without me being able to move myself. The colours were muted, the smell only distant.
 
-And then everything started to become more and more faint. Slowly but surely everything started to blend out into whiteness. A white as bright and gleaming as you could imagine, purer than anything I had ever seen on this world. Finally I felt myself getting lighter too, fading and drifting away into nothingness.
+And then everything started to become more and more faint. Slowly but surely it all started to blend out into whiteness. A white as bright and gleaming as you could imagine, purer than anything I had ever seen on this world. A calmness overcame me and I felt at ease. I had nothing more to worry about. It was all over. Finally I felt myself getting lighter too, fading and drifting away into nothingness.
 
+Suddenly something touched me softly. It felt like a hand gently tapping on my shoulder. The tapping became more noticeable and abruptly the hand grabbed me and started pulling me downwards. I struggled, but the hand held on more and more tightly, dragging me farther down. I felt myself getting heavier again, returning to reality. More hands appeared and held on to me, pulling faster and faster. The faster I went the more feeling returned to me. I could feel it burning in my chest, I could feel wind rushing by as we accelerated. Suddenly the whiteness vanished and gave way to a gigantic, white sphere surrounded by blackness. The moon! I turned around and saw a huge forest with a mountain range in the distance. Lakes and rivers cut holes into the thick trees. I could see the world from above.
+
+I continued falling, being dragged downwards at an enormous rate, rushing through the air. Suddenly the trees moved out from below me, giving way to a large clearing, a familiar house in its midst. I was rushing right towards Yukari's residence. Fear returned to my mind and I instinctively closed my eyes thinking that the impact from my fall would kill me instantly. The heat in my chest flared up, scorching my skin and pushing to burst out. And then I hit the ground.
+
+At first it felt just as if I had been slammed into a wall, my body crumbling under the force of impact. Then my skin exploded, ripped apart. Every spot was gleaming hot as the fire from my chest escaped. Never before had I known such intense pain, every part of my body that touched anything felt as if it was going to be ripped off.
+
+It all lasted barely a few seconds and then the heat was gone. The fires stopped and in its stead came a soreness all over my body, as if it had been torn up. I shivered and tears streamed hot over my face. I could feel the ground again in all its roughness. The air smelt hot and heavy, but real nonetheless. I opened an eye and even though my vision was blurred I could make out the study.
+
+Shuddering and shaking I slowly lifted myself up. All the tiredness from the days before was gone. I felt sore and hurt, but I was alive. The study was in complete disarray. The floor panelling was broken where I was laying, tables where thrown on their side, the door blown out of its railing. Wood splinters and torn pieces of parchment were strewn over the floor. I noticed strange markings and symbols on my chest. They looked black like ash, burned into my skin. I looked behind me and saw Yukari lying on the floor, smiling faintly at me.
+
+---
 
