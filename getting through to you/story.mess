@@ -121,7 +121,7 @@ Scene: The group arrived at the camping spot. It's a small gravelled place near 
 ~ Yukari  | Can you hand me the hammer?
 ~ Haruna  | Uhm. Are you sure you're OK? I thought Heather had told you in advance.
 ~ Yukari  | (grabs it)^(Thanks)
-          | If it were me I don't think I could just go on holidays like this unprompted.
+~ Haruna  | If it were me I don't think I could just go on holidays like this unprompted.
 ~ Yukari  | It's fine, I'm not fussy about that.
           | Plus Heather is right and I know it. I really do have to detox.
           | (smiles weakly) If you think I look bad now, it's good you didn't come pick me up at home.
@@ -201,11 +201,9 @@ An awkward silence descends again and the three finish eating. Yukari picks up t
 ~ Heather | Come on, really?
           | You've never picked an outfit you thought didn't look as good as you wanted?
           | Never held a presentation that wasn't as good as you would have liked?
-          
 ~ Haruna  | Of course! But when I mess up people agree with me.
           | I've received empty praise before, but not genuine praise for something I thought was bad?
           | When people are happy with me I'm happy, too.
-
 ~ Heather | As you should be.
 
 ## CHAPTER 3
