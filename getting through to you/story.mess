@@ -552,14 +552,15 @@ Scene: They're at a hillside near their camping spot, looking out into the dista
           | Yukari, will you go out with me?
 ~ Yukari  | Sure, where did you have in mind?
 ~ Heather | (buries face in hands)
-~ Haruna  | Uuh~ you know, I wanted to go eat out again sometime, don't you?
+~ Haruna  | I-I wanted to go eat out again sometime, don't you?
 ~ Yukari  | That'd be cool. Though you know I'm... difficult when it comes to that, right?
-~ Haruna  | Oh no, don't worry! I was thinking of a small italian restaurant nearby.
+~ Haruna  | Oh no, don't worry! I was thinking of a small Italian restaurant nearby.
           | Just the two of us, you know?
 ~ Yukari  | ? Sure. That'll work.
 
 
 Scene: Yukari and Haruna are sitting at a table in an italian restaurant. It's evening, and they're seated at the window. They've already gotten their food and are eating.
+
 ~ Yukari  | This is pretty good! I didn't really expect much from a random place out nowhere.
 ~ Haruna  | I'm glad you're enjoying it!
           | (digs around in her plate)
@@ -567,16 +568,20 @@ Scene: Yukari and Haruna are sitting at a table in an italian restaurant. It's e
           | (serious) Yukari.
 ~ Yukari  | (looks up at Haruna)
 ~ Haruna  | I love you. Will you be my girlfriend?
+
+
 ~ Yukari  | (blinks, wrinkles brow)
           | (hoarse, dry voice) Is this... is this a joke?
 ~ Haruna  | No. I love you.
+        beat
 ~ Yukari  | Are you sure? Why... why me? I don't understand.
 ~ Haruna  | (exhales, looks away) Why, huh...
-
-
 ~ Haruna  | I've always been interested in you. Whenever Heather told me about you, I wanted to meet you.
+
+
           | And, well, now that we have I guess I have fallen for you.
-          | I just... (smiles weakly) you know, this is really hard. I just like you.
+          | I just...
+          | (smiles weakly) you know, this is really hard. I just like you.
           | (looks back at Yukari) I don't know if I can say it any better than that. Sorry.
 ~ Yukari  | (swallows, averts eyes) No, I'm sorry. I'm sorry that I'm so difficult.
 ~ Haruna  | It's OK.
@@ -591,7 +596,7 @@ Some time passes, it is now dark outside and Haruna is still at the table by her
 ~ Heather | ay howd it go? should i come pick u up?
 ~ Haruna  | Well, I confessed, and she seems to have finally understood
 ~ Heather | \[ "party" sticker ]
-~ Haruna  | But then she ran off and it's been about 30 minutes now...
+~ Haruna  | But then she ran off and it's been about 15 minutes now...
 ~ Heather | ...
           | lord
           | shell be hiding somewhere secluded
@@ -599,30 +604,34 @@ Some time passes, it is now dark outside and Haruna is still at the table by her
           | im coming over
 ~ Haruna  | Ok. Thank you.
 ~ Heather | \[ "no problem" sticker ]
-Haruna gets up and looks through the restaurant. She finds Yukari sitting by herself in the furthest corner of the adjacent diner/cafe, staring outside.
+Haruna gets up and looks through the restaurant.
 
 
+She finds Yukari sitting by herself in the furthest corner of the adjacent diner/cafe, staring outside.
 ~ Haruna  | There you are! Are you OK?
 ~ Yukari  | Sorry, I must have made you worried.
 ~ Haruna  | Well, I won't say you didn't!
 ~ Yukari  | This has always been a problem for me. I don't... understand when people like me.
 ~ Haruna  | What do you mean?
-~ Yukari  | I think of all the things that are bad and difficult about me and I guess I then think it's impossible for anyone to choose me of all people.
+~ Yukari  | I think of all the things that are bad and difficult about me and I guess I then think it's impossible for anyone to choose me, of all people.
 ~ Haruna  | (grumbling) I admit my tastes aren't the most usual.
 ~ Yukari  | (shocked) Oh-- that's not--
 ~ Haruna  | (sighs, grabs Yukari's hands) Listen, I'll say it again.
+
+
           | I love you.
           | And that's not because I don't know you, or because I don't care about the things you're struggling with.
           | But you know, it's fine, right? Not like I'm perfect either.
-
-
 ~ Yukari  | Sorry, I really don't mean to put down your feelings.
           | I just somehow need to wrangle my brain into trusting them, if that makes any sense?
           | I never thought I'd actually meet anyone that would like me again, so it takes some convincing.
 ~ Haruna  | I'll say it yet again if it would help.
 ~ Yukari  | No, no, (buries face in hands) I'm already embarrassed enough as it is.
-          | Ahhhh, I'm really happy.
-Yukari hugs a surprised Haruna. 
+          | (sighs)
+          | My mind's a mess, my thoughts are racing, but I'm really happy.
+
+
+Yukari hugs a surprised Haruna.
 ~ Yukari  | Thank you so much.
 Haruna hugs Yukari back.
 
@@ -645,39 +654,45 @@ Scene: It's the end of the holidays and they're just about done packing everythi
 Haruna and Yukari get in the back together.
 ~ Heather | You don't wanna watch the view, Haruna?
 ~ Haruna  | The view back here is pretty good, too.
-~ Heather | Oho~
-          | Alright then, off we go!
+~ Heather | Heh. Alright then, off we go!
           | Ready to start working again tomorrow?
 ~ Heather | (dejectedly raising fist) Hooray...
 ~ Yukari  | (dejectedly raising fist) Hooray...
 ~ Haruna  | (dejectedly raising fist) Hooray...
 
 
+
 The three sit in silence for a while. Haruna and Yukari are holding hands.
+
 ~ Yukari  | I've mentioned it before, but you're free to stay at my place.
           | So if you like...
 ~ Haruna  | (excited) Really? Are you sure?
           | Uhm. Wait, isn't this a bit... fast?
+
 ~ Yukari  | It's up to you. If you'd rather crash at Heather's first, that's fine.
-          | There's a second bedroom that's stood unused for a while at my apartment.
+          | There's a second bedroom at my apartment that's stood unused for a while.
           | I'd have to clean it up, but it shouldn't be much trouble.
 ~ Haruna  | Oh. Right, right.
+
+
+
 ~ Heather | What were you thinking about there, Haruna?
 ~ Haruna  | (stares out of the window, embarrassed)
 ~ Yukari  | Huh? Oh- no, no!
           | Yeah, no, sharing a bed would be a bit fast for me too.
           | Sorry.
+
 ~ Haruna  | (embarrassed) No problem.
-
-
 ~ Heather | Buncha schoolgirls back there.
           | There's nothing to be embarrassed about! Sharing a bed is a wonderful thing!
           | Feeling the presence and warmth of each other, hearing the quiet heartbeat racing...
+
 ~ Yukari  | Can you turn that yodelling station back on, I think I'd rather listen to that.
 ~ Haruna  | (snickers)
 ~ Heather | Your wish is my command- (reaches for the radio)
 ~ Yukari  | (panicking) No!
 ~ Haruna  | (panicking) No!
+
 
 
 Final shot of the car driving through the landscape.
